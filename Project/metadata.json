@@ -1,0 +1,7 @@
+{
+  "name": "FaceTrack Attendance",
+  "description": "An AI-powered school attendance system using face recognition to automate check-ins and monitor student engagement with intelligent low-attendance alerts.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
